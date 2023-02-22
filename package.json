@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "minimatch": "^2.0.5",
-    "react-scripts": "4.0.3"
+    "minimatch": "^2.0.5"
   }
 }
