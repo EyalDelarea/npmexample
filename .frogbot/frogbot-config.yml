@@ -6,7 +6,7 @@
     git:
       # [Mandatory]
       # Name of the git repository to scan
-      repoName: npmexmaple
+      repoName: npmexample
 
       # [Mandatory]
       # List of branches to scan
